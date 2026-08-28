@@ -20,6 +20,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Read CSV Files.vi" Type="VI" URL="../Read CSV Files.vi"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
