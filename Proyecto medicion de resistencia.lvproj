@@ -20,10 +20,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
 		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
+		<Item Name="Digit.ctl" Type="VI" URL="../Digit.ctl"/>
+		<Item Name="digit_to_color.vi" Type="VI" URL="../digit_to_color.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Multiply.ctl" Type="VI" URL="../Multiply.ctl"/>
 		<Item Name="Read CSV Files.vi" Type="VI" URL="../Read CSV Files.vi"/>
+		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
+		<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -39,6 +45,7 @@
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
+				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
