@@ -20,16 +20,24 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
-		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
-		<Item Name="Digit.ctl" Type="VI" URL="../Digit.ctl"/>
-		<Item Name="digit_to_color.vi" Type="VI" URL="../digit_to_color.vi"/>
+		<Item Name="Supports VIs" Type="Folder">
+			<Item Name="Coef-Temp to color convert.vi" Type="VI" URL="../Resistor Band Colors/Coef-Temp to color convert.vi"/>
+			<Item Name="Digit to color convert.vi" Type="VI" URL="../Resistor Band Colors/Digit to color convert.vi"/>
+			<Item Name="digit_to_color.vi" Type="VI" URL="../digit_to_color.vi"/>
+			<Item Name="Multiply to color convert.vi" Type="VI" URL="../Resistor Band Colors/Multiply to color convert.vi"/>
+			<Item Name="Read CSV Files.vi" Type="VI" URL="../Read CSV Files.vi"/>
+			<Item Name="Tolerance to color convert.vi" Type="VI" URL="../Resistor Band Colors/Tolerance to color convert.vi"/>
+		</Item>
+		<Item Name="Type Defs" Type="Folder">
+			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
+			<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
+			<Item Name="Digit.ctl" Type="VI" URL="../Digit.ctl"/>
+			<Item Name="Multiply.ctl" Type="VI" URL="../Multiply.ctl"/>
+			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
+			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
+		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="Multiply.ctl" Type="VI" URL="../Multiply.ctl"/>
-		<Item Name="Read CSV Files.vi" Type="VI" URL="../Read CSV Files.vi"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
-		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
-		<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
