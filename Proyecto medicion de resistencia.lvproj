@@ -21,12 +21,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Supports VIs" Type="Folder">
-			<Item Name="Coef-Temp to color convert.vi" Type="VI" URL="../Resistor Band Colors/Coef-Temp to color convert.vi"/>
-			<Item Name="Digit to color convert.vi" Type="VI" URL="../Resistor Band Colors/Digit to color convert.vi"/>
+			<Item Name="Coef-Temp to color convert.vi" Type="VI" URL="../Coef-Temp to color convert.vi"/>
+			<Item Name="Digit to color convert.vi" Type="VI" URL="../Digit to color convert.vi"/>
 			<Item Name="digit_to_color.vi" Type="VI" URL="../digit_to_color.vi"/>
-			<Item Name="Multiply to color convert.vi" Type="VI" URL="../Resistor Band Colors/Multiply to color convert.vi"/>
+			<Item Name="Multiply to color convert.vi" Type="VI" URL="../Multiply to color convert.vi"/>
 			<Item Name="Read CSV Files.vi" Type="VI" URL="../Read CSV Files.vi"/>
-			<Item Name="Tolerance to color convert.vi" Type="VI" URL="../Resistor Band Colors/Tolerance to color convert.vi"/>
+			<Item Name="Tolerance to color convert.vi" Type="VI" URL="../Tolerance to color convert.vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
