@@ -32,7 +32,7 @@
 			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
 			<Item Name="Digit.ctl" Type="VI" URL="../Digit.ctl"/>
-			<Item Name="Multiply.ctl" Type="VI" URL="../Multiply.ctl"/>
+			<Item Name="Multiplier.ctl" Type="VI" URL="../Multiplier.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 		</Item>
