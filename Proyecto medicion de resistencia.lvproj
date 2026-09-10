@@ -36,6 +36,7 @@
 			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 		</Item>
+		<Item Name="CSV Series Read Tester.lvlib" Type="Library" URL="../CSV Series Reader Tester/CSV Series Read Tester.lvlib"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
