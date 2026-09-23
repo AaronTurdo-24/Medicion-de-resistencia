@@ -27,6 +27,8 @@
 			<Item Name="digit_to_color.vi" Type="VI" URL="../digit_to_color.vi"/>
 			<Item Name="Multiply to color convert.vi" Type="VI" URL="../Multiply to color convert.vi"/>
 			<Item Name="Tolerance to color convert.vi" Type="VI" URL="../Tolerance to color convert.vi"/>
+			<Item Name="EXPONENT VALUE (SubVI).vi" Type="VI" URL="../EXPONENT VALUE (SubVI).vi"/>
+			<Item Name="Exponent(SubVI).vi" Type="VI" URL="../Exponent(SubVI).vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
@@ -35,6 +37,7 @@
 			<Item Name="Multiplier.ctl" Type="VI" URL="../Multiplier.ctl"/>
 			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
+			<Item Name="Multiplier2--control.ctl" Type="VI" URL="../Multiplier2--control.ctl"/>
 		</Item>
 		<Item Name="CSV Series Read.lvlib" Type="Library" URL="../CSV Series Reader Tester/CSV Series Read.lvlib"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
