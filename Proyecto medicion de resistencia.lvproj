@@ -38,6 +38,7 @@
 			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 			<Item Name="Multiplier2--control.ctl" Type="VI" URL="../Multiplier2--control.ctl"/>
+			<Item Name="E-Series Level.ctl" Type="VI" URL="../E-Series Level.ctl"/>
 		</Item>
 		<Item Name="CSV Series Read.lvlib" Type="Library" URL="../CSV Series Reader Tester/CSV Series Read.lvlib"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
@@ -89,6 +90,8 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Tolerance(SubVI).vi" Type="VI" URL="../Tolerance(SubVI).vi"/>
+			<Item Name="convert % to number(SubVI).vi" Type="VI" URL="../convert % to number(SubVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

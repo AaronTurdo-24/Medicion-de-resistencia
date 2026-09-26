@@ -35,14 +35,16 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="CSV Series Reader.vi" Type="VI" URL="../CSV Series Reader.vi"/>
 		<Item Name="E series.ctl" Type="VI" URL="../../E series.ctl"/>
 		<Item Name="Read CSV Files.vi" Type="VI" URL="../../Read CSV Files.vi"/>
+		<Item Name="read e-series file names.vi" Type="VI" URL="../read e-series file names.vi"/>
 		<Item Name="State Series.ctl" Type="VI" URL="../../State Series.ctl"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="CSV Series Reader.vi" Type="VI" URL="../CSV Series Reader.vi"/>
 		<Item Name="Data Series.ctl" Type="VI" URL="../../Data Series.ctl"/>
+		<Item Name="Load E-series.vi" Type="VI" URL="../Load E-series.vi"/>
 	</Item>
 	<Item Name="CSV Series Reader Tester.vi" Type="VI" URL="../CSV Series Reader Tester.vi"/>
 </Library>
