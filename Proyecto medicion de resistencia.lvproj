@@ -28,7 +28,14 @@
 			<Item Name="Multiply to color convert.vi" Type="VI" URL="../Multiply to color convert.vi"/>
 			<Item Name="Tolerance to color convert.vi" Type="VI" URL="../Tolerance to color convert.vi"/>
 			<Item Name="EXPONENT VALUE (SubVI).vi" Type="VI" URL="../EXPONENT VALUE (SubVI).vi"/>
-			<Item Name="Exponent(SubVI).vi" Type="VI" URL="../Exponent(SubVI).vi"/>
+			<Item Name="Calculate Nominal Resist(SubVI).vi" Type="VI" URL="../Calculate Nominal Resist(SubVI).vi"/>
+			<Item Name="Determine E-Series Level.vi" Type="VI" URL="../Determine E-Series Level.vi"/>
+			<Item Name="Check Number In Lower E-Series.vi" Type="VI" URL="../Check Number In Lower E-Series.vi"/>
+			<Item Name="In Basic Series_.vi" Type="VI" URL="../In Basic Series_.vi"/>
+			<Item Name="In lower Series.vi" Type="VI" URL="../In lower Series.vi"/>
+			<Item Name="convert % to number(SubVI).vi" Type="VI" URL="../convert % to number(SubVI).vi"/>
+			<Item Name="Calculate Resistance Specs(subVI).vi" Type="VI" URL="../Calculate Resistance Specs(subVI).vi"/>
+			<Item Name="Check Number In Middle E-Series.vi" Type="VI" URL="../Check Number In Middle E-Series.vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
@@ -39,6 +46,8 @@
 			<Item Name="Tolerance.ctl" Type="VI" URL="../Tolerance.ctl"/>
 			<Item Name="Multiplier2--control.ctl" Type="VI" URL="../Multiplier2--control.ctl"/>
 			<Item Name="E-Series Level.ctl" Type="VI" URL="../E-Series Level.ctl"/>
+			<Item Name="In Basic.ctl" Type="VI" URL="../In Basic.ctl"/>
+			<Item Name="In mid-high.ctl" Type="VI" URL="../In mid-high.ctl"/>
 			<Item Name="N° bands.ctl" Type="VI" URL="../Front Panel Interface/N° bands.ctl"/>
 		</Item>
 		<Item Name="CSV Series Read.lvlib" Type="Library" URL="../CSV Series Reader Tester/CSV Series Read.lvlib"/>
@@ -96,8 +105,6 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 			</Item>
-			<Item Name="Tolerance(SubVI).vi" Type="VI" URL="../Tolerance(SubVI).vi"/>
-			<Item Name="convert % to number(SubVI).vi" Type="VI" URL="../convert % to number(SubVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
