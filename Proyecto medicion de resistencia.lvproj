@@ -36,6 +36,7 @@
 			<Item Name="convert % to number(SubVI).vi" Type="VI" URL="../convert % to number(SubVI).vi"/>
 			<Item Name="Calculate Resistance Specs(subVI).vi" Type="VI" URL="../Calculate Resistance Specs(subVI).vi"/>
 			<Item Name="Check Number In Middle E-Series.vi" Type="VI" URL="../Check Number In Middle E-Series.vi"/>
+			<Item Name="Calculate Nominal Resistance.vi" Type="VI" URL="../Calculate Nominal Resistance.vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Coef-Temp-.ctl" Type="VI" URL="../Coef-Temp-.ctl"/>
@@ -54,6 +55,7 @@
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Front Panel Interface.lvlib" Type="Library" URL="../Front Panel Interface/Front Panel Interface.lvlib"/>
+		<Item Name="Resistance Digits--cluster.ctl" Type="VI" URL="../Resistance Digits--cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -104,6 +106,7 @@
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="ED Queued State Machine.lvlib" Type="Library" URL="/&lt;vilib&gt;/TABOADA/Event-Driven Queued SM/ED Queued State Machine/ED Queued State Machine.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
