@@ -92,13 +92,13 @@
 			<Item Name="Number of Bands--numeric.ctl" Type="VI" URL="../Number of Bands--numeric.ctl"/>
 			<Item Name="Resistance Specifications--cluster.ctl" Type="VI" URL="../Resistance Specifications--cluster.ctl"/>
 		</Item>
-		<Item Name="Pass Fail Display.lvlib" Type="Library" URL="../Pass Fail Display/Pass Fail Display.lvlib"/>
+		<Item Name="Resistance Controls.lvlib" Type="Library" URL="../Resistor Controls/Resistance Controls.lvlib"/>
 		<Item Name="Front Panel Interface.lvlib" Type="Library" URL="../Front Panel Interface/Front Panel Interface.lvlib"/>
 		<Item Name="E-Series Reader.lvlib" Type="Library" URL="../E-Series Reader/E-Series Reader.lvlib"/>
 		<Item Name="Resistance Value.lvlib" Type="Library" URL="../Resistance Value/Resistance Value.lvlib"/>
-		<Item Name="Band Colors.lvlib" Type="Library" URL="../Band Colors/Band Colors.lvlib"/>
+		<Item Name="Pass Fail Display.lvlib" Type="Library" URL="../Pass Fail Display/Pass Fail Display.lvlib"/>
 		<Item Name="Resistance Colors.lvlib" Type="Library" URL="../Resistance Colors/Resistance Colors.lvlib"/>
-		<Item Name="Resistance Controls.lvlib" Type="Library" URL="../Resistor Controls/Resistance Controls.lvlib"/>
+		<Item Name="Band Colors.lvlib" Type="Library" URL="../Band Colors/Band Colors.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
