@@ -99,7 +99,7 @@
 		<Item Name="Pass Fail Display.lvlib" Type="Library" URL="../Pass Fail Display/Pass Fail Display.lvlib"/>
 		<Item Name="Resistance Colors.lvlib" Type="Library" URL="../Resistance Colors/Resistance Colors.lvlib"/>
 		<Item Name="Band Colors.lvlib" Type="Library" URL="../Band Colors/Band Colors.lvlib"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -160,12 +160,12 @@
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Config Files Management.lvlib" Type="Library" URL="/&lt;vilib&gt;/TABOADA/Config Files Management/Config Files Management/Config Files Management.lvlib"/>
+				<Item Name="ED Queued State Machine.lvlib" Type="Library" URL="/&lt;vilib&gt;/TABOADA/Event-Driven Queued SM/ED Queued State Machine/ED Queued State Machine.lvlib"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 34401.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 34401/Agilent 34401.lvlib"/>
 			</Item>
-			<Item Name="Config Files Management.lvlib" Type="Library" URL="../../../../../Program Files/National Instruments/LabVIEW 2018/vi.lib/TABOADA/Config Files Management/Config Files Management/Config Files Management.lvlib"/>
-			<Item Name="ED Queued State Machine.lvlib" Type="Library" URL="../../../../../Program Files/National Instruments/LabVIEW 2018/vi.lib/TABOADA/Event-Driven Queued SM/ED Queued State Machine/ED Queued State Machine.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
